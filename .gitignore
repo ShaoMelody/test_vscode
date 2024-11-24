@@ -1,4 +1,8 @@
 
 *.txt
 1.txt
+*.log
+test_folder1/
+test_folder2/*
+
 
